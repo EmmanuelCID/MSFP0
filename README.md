@@ -1,9 +1,9 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/MSFBP0)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=EmmanuelCID/MSFP0)
 
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información de la estudiante
-Nombre completo [correo@tijuana.tecnm.mx]
+Emmanuel Cid Pacheco; 23212187 [l23212187@tijuana.tecnm.mx]
 
 Modelado de Sistemas Fisiológicos
 
